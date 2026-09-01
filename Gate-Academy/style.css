@@ -1,0 +1,30 @@
+.photo {
+    display: flex;
+    justify-content: space-between;
+    background-color:red;
+    word-spacing: 100;
+}
+.photo .center{
+    color: aqua;
+    text-align: center;
+
+}
+.header{
+    background-color: rgb(243, 243, 201);
+    height: 8rem;
+    
+    width: ;
+    text-align: center;
+    size: 10cap;
+    font-size: 40px;
+    
+}
+
+h1{
+    color: #000;
+}
+.mid{
+    background-color: blue;
+}
+
+
